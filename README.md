@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Mahdi Delnavazi
-- 👀 I have 5 year experience in android programming and 1 year at back-end developing
-
+👋 Hi, I’m Mahdi Delnavazi <br />
+I'm a software engineer with 5 year experience in android programming and 1 year at back-end developing <br />
+<br />
+my skills are:
+<br />
 
 
 ![Golang](https://img.shields.io/badge/golang-blue?style=for-the-badge&logo=go&logoColor=white)
