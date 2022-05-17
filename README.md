@@ -10,7 +10,7 @@ my skills are:
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![android](https://img.shields.io/badge/android-gren?style=for-the-badge&logo=android&logoColor=white)
-
+![docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![JWT/JSON Web Token](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge)
