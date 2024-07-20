@@ -26,4 +26,5 @@ my skills are:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white&style=for-the-badge)
 
 Stats
+<br />
 [![GitHub Streak](https://streak-stats.demolab.com?user=MahdiDelnavazi&theme=dark&hide_border=true)](https://git.io/streak-stats)
